@@ -13,7 +13,7 @@ import Copyright from '../components/copyright';
 const Index = () => {
   return (
     <Container maxWidth="xl">
-      <Appbar fixed />
+      <Appbar />
       <Box my={4}>
         <Typography variant="h4" component="h1" gutterBottom>
           Next.js example
@@ -22,8 +22,8 @@ const Index = () => {
           Go to the about page
         </Link>
         <ProTip />
-        <Copyright />
       </Box>
+        <Copyright />
     </Container>
   );
 };
