@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './pro-tip';","map":{"version":3,"sources":["/home/johnmogi/Desktop/next/nextjs-material-ui-boilerplate/src/components/pro-tip/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,WAAxB","sourcesContent":["export { default } from './pro-tip';\n"]},"metadata":{},"sourceType":"module"}
